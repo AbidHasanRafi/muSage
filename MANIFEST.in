@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include requirements.txt
+include QUICKSTART.md
+include EXAMPLES.md
+include test_installation.py
+recursive-include musage *.py
